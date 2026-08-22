@@ -25,6 +25,20 @@ The work included updates across cardio, strength, Pilates, recovery, ThermaChil
 
 The quote experience now captures a required `Market Segment` selection using commercial categories such as Multifamily, Education, Corporate Wellness, Recreation, Government, Sports Performance, Fitness, Hospitality, Healthcare, Clubs, and Sports. The public portfolio intentionally describes the workflow without publishing private customer data or operational credentials.
 
+## Tech Stack
+
+| Layer | Technologies and usage |
+|---|---|
+| Storefront platform | Shopify Online Store theme architecture and Liquid templates |
+| Front end | React with JavaScript and JSX, delivered through compiled production bundles |
+| Markup and styling | HTML and CSS for Shopify theme structure, responsive layouts, product interfaces, and forms |
+| Product experience | Shopify theme assets, CDN-hosted resources, product handles, PDP routing, and direct document downloads |
+| Lead capture | Formspree for hosted quote-form submission and structured Market Segment data |
+| Automation and QA | Python for source extraction, auditing, comparison, and deployment preparation; Node.js for JavaScript syntax validation |
+| Version control and delivery | Git, GitHub, Shopify CLI, targeted theme-asset deployment, SHA-256 verification, and rollback procedures |
+
+The portfolio intentionally does not claim a language or framework that was not confirmed in the available production artifacts. The focus is on the technologies directly evidenced by the storefront, deployment workflow, validation scripts, and public contribution record.
+
 ## Technical highlights
 
 The implementation required working with minified production assets, React runtime compatibility, Shopify theme asset deployment, deterministic validation, and browser-level troubleshooting. A runtime regression caused by incompatible JSX helper calls was isolated through the stack trace, corrected by using the runtime already present in the bundle, and verified against the live asset after deployment.
