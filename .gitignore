@@ -1,0 +1,11 @@
+.env
+.env.*
+*.token
+*.secret
+*.key
+*.pem
+.shopify/
+node_modules/
+cookies*.json
+session*.json
+*.b64
