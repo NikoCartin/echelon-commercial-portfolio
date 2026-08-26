@@ -21,7 +21,7 @@ A public overview of contributions to a commercial fitness e-commerce experience
 
 ## Selected outcomes
 
-The work included updates across cardio, strength, Pilates, recovery, ThermaChill, sauna, and commercial wellness products. Product pages were aligned to approved source documents rather than relying on generic category copy. The process also introduced a stable-bundle workflow so future updates begin from a verified production baseline instead of an older experimental bundle.
+The work included updates across cardio, strength, Pilates, recovery, ThermaChill, sauna, and commercial wellness products. Product pages were aligned to approved source documents rather than relying on generic category copy. The process also introduced a stable-bundle workflow so future updates begin from a verified production baseline instead of an older experimental bundle. The August 2026 production pass added audience-specific market visuals, corrected active product-promotion language, removed an inactive search control, repaired stale destinations, and documented a route- and asset-level verification pass.
 
 The quote experience now captures a required `Market Segment` selection using commercial categories such as Multifamily, Education, Corporate Wellness, Recreation, Government, Sports Performance, Fitness, Hospitality, Healthcare, Clubs, and Sports. The public portfolio intentionally describes the workflow without publishing private customer data or operational credentials.
 
@@ -47,6 +47,7 @@ The product-data workflow used source-document extraction, structured mapping, t
 
 ## Portfolio case studies
 
+- [Production hardening and storefront audit ,  August 2026](case-studies/production-hardening-and-audit-2026-08.md)
 - [Product information and PDP system](case-studies/product-data-operations.md)
 - [Quote form, runtime recovery, and deployment discipline](case-studies/quote-form-and-runtime-recovery.md)
 
