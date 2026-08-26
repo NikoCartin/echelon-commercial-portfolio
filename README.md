@@ -1,6 +1,6 @@
 # Echelon Commercial Site Engineering Portfolio
 
-![Echelon Commercial website preview](assets/echelon-commercial-preview.png)
+![Current Echelon Commercial storefront hero](assets/echelon-commercial-current.png)
 
 A public overview of contributions to a commercial fitness e-commerce experience built on Shopify. The work combined front-end product experience, product-data operations, technical SEO and link auditing, documentation, runtime recovery, and production deployment discipline.
 
