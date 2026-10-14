@@ -50,6 +50,7 @@ The product-data workflow used source-document extraction, structured mapping, t
 - [Production hardening and storefront audit ,  August 2026](case-studies/production-hardening-and-audit-2026-08.md)
 - [Product information and PDP system](case-studies/product-data-operations.md)
 - [Quote form, runtime recovery, and deployment discipline](case-studies/quote-form-and-runtime-recovery.md)
+- [Lead tracking and safe form routing](case-studies/lead-tracking-and-form-routing.md)
 
 ## Repository structure
 
