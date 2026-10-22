@@ -51,7 +51,6 @@ The product-data workflow used source-document extraction, structured mapping, t
 - [Product information and PDP system](case-studies/product-data-operations.md)
 - [Quote form, runtime recovery, and deployment discipline](case-studies/quote-form-and-runtime-recovery.md)
 - [Lead tracking and safe form routing](case-studies/lead-tracking-and-form-routing.md)
-- [Echelon Coach session-media reliability](case-studies/echelon-coach-session-media-reliability.md)
 
 ## Repository structure
 
